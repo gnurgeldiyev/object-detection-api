@@ -1,4 +1,4 @@
-# Building a Object Detection API with Tensorflow.js & COCO SSD pretrained model
+# Building an Image Object Detection API with Tensorflow.js & COCO SSD pretrained model
 
 Basic API for posting images and getting the result of detection.
 Uses COCO SSD pretrained model to detect objects in 300x300 px images. List of object [names](https://github.com/tensorflow/tfjs-models/blob/master/coco-ssd/src/classes.ts)
